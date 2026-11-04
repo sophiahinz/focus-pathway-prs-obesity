@@ -6,6 +6,8 @@ Analysis code for:
 > *Pathway-restricted polygenic scores for energy-substrate metabolism and obesity: a systematic screen in the FoCus cohort.*
 > International Journal of Obesity (submitted). [DOI to be added]
 
+Archived version: [![DOI](https://zenodo.org/badge/1446046879.svg)](https://doi.org/10.5281/zenodo.23960201)
+
 The repository contains the R scripts (and two Python helper scripts) that produced all results, tables and figures of the article, plus the 54 pathway-level gene sets. **No individual-level data are included.** FoCus genotype and phenotype data are available from the FoCus study management upon reasonable request (see the Data Availability statement of the article).
 
 ## Repository structure
