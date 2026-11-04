@@ -59,4 +59,4 @@ Code comments and console messages are in English. A small number of data labels
 
 ## License
 
-[to be added]
+MIT License (see LICENSE)
