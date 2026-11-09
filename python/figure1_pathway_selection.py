@@ -38,7 +38,7 @@ box(5,103,90,15,"Pre-specified selection criteria\n"
     "transduction, disease-specific pathways.  Formal and size thresholds: Table S1",fill="#FFFFFF",bold_first=True)
 
 # row B
-box(5,84,38,14,"KEGG (Release 119.0)\nBRITE core categories: carbohydrate 15,\nenergy 8, lipid 17, amino acid 14\nn = 44",fill=BLUE,bold_first=True)
+box(5,84,38,14,"KEGG (Release 119.0)\nBRITE core categories, human pathways:\ncarbohydrate 14, energy 3, lipid 14,\namino acid 13; n = 44",fill=BLUE,bold_first=True)
 box(57,84,38,14,"Reactome (release 97)\nCandidates screened in 4\ncorresponding top-level branches\nn = 43",fill=BLUE,bold_first=True)
 arrow(24,83.6,24,74.4); excl(24,79,"excluded: n = 18")
 arrow(76,83.6,76,74.4); excl(76,79,"excluded: n = 18")
